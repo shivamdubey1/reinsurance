@@ -1,0 +1,11 @@
+﻿<Properties>
+  <WatchEntry0 value="TextFieldValue" />
+  <WatchEntry1 value="TIAOracleRadioGroup" />
+  <WatchEntry2 value="newdevelopername" />
+  <WatchEntry3 value="TIAOracleRadioGroup.exist" />
+  <WatchEntry4 value="OracleFormWindow(&quot;short title:=Maintain Reinsurance Coverage&quot;).OracleTabbedRegion(&quot;label:=Deposits&quot;).oracleradiogroup(&quot;developer name:=CURRENT_DEPOSIT_REINSURER_DEPOSIT_LEVEL_.*&quot;).exist" />
+  <WatchEntry5 value="SelectValue" />
+  <WatchEntry6 value="OracleFormWindow(&quot;short title:=Maintain Reinsurance Coverage&quot;).OracleTabbedRegion(&quot;label:=Contract&quot;).oracleTextfield(&quot;developer name:=REI_CONTRACT_C09_0&quot;).highlight" />
+  <WatchEntry7 value="OracleFormWindow(&quot;short title:=Maintain Reinsurance Coverage&quot;).OracleTabbedRegion(&quot;label:=Commission&quot;).click" />
+  <WatchEntry8 value="OracleFormWindow(&quot;short title:=Reinsurance Cover&quot;).oracleTextField(&quot;developer name:=XLA_LABELS_XLA_FAC_STATUS_0&quot;).getroproperty(&quot;value&quot;)" />
+</Properties>
